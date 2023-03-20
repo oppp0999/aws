@@ -1,0 +1,194 @@
+ AWS 기초를 배우는 사이트 60개
+
+1. AWS 가입시 무료로 주는 용량 규모  https://aws.amazon.com/ko/free/
+
+2. AWS가입 하기 https://brunch.co.kr/@topasvga/77
+
+3. 리전별 제공 서비스 https://aws.amazon.com/ko/about-aws/global-infrastructure/regional-product-services/
+
+4. AWS 파트너들 https://aws.amazon.com/ko/partners/find/results/?facets=
+
+5. 가입후 필수 설정. MFA  https://aws.amazon.com/ko/iam/details/mfa/
+
+6. 10분 자습서 https://aws.amazon.com/ko/getting-started/tutorials/
+
+7. AWS 지식센터 - 기본  FAQ
+https://aws.amazon.com/ko/premiumsupport/knowledge-center/?sc_channel=em&sc_campaign=GLOBAL_AWS_Activation_S3&sc_medium=em_114977&sc_content=PA_ln_pac&sc_geo=mult&sc_country=global&trk=em_114977&mkt_tok=eyJpIjoiWWpZeE9EbGxObUZqTVRRMiIsInQiOiJsS2FsTjFGTFFGeng2eG82bG9ib0krUWlUVWRwOHJ1dFp6b2hCZlVrZHBhaTUwdDdvS3ZZNmZYNXpRQ3d4WEVNK05ObTBKd0R2N0xIZzZ5aUpxUm16XC9Ua0h4ODFSdmpXOGVwVFwvb2pTZjdYQlhtb1wvSGJwbVFtQW1HemM4Z0RkRG9MRXFnSUp6TlIrNG1nOFRmRDdKa1E9PSJ9
+
+
+8. PUTTY Download 사이트
+https://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+9. SSH툴 테라텀  https://osdn.net/projects/ttssh2/releases
+
+10. AWS EC2 비용 https://aws.amazon.com/ko/ec2/pricing/
+시간 - ec2  1 시간 단위 비용발생.
+용량 - 네트워크 통신 비용 , aws로 in은 무료,  out은 비용발생
+횟수 - api 호출횟수.
+조합 -  s3 스토리지는 사용비용과  api호출횟수
+
+
+11. EC2   https://aws.amazon.com/ko/ec2/details/
+
+12. CloudWatch  로 모니터링 하는  AWS 서비스들
+https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html
+
+
+13. S3 Pricing  https://aws.amazon.com/ko/s3/pricing/
+
+14. RDS Pricing  https://aws.amazon.com/ko/rds/pricing/
+
+15. route53 https://docs.aws.amazon.com/route53/#lang/ko_kr
+
+16. SES Best Practices   https://media.amazonwebservices.com/AWS_Amazon_SES_Best_Practices.pdf
+
+17. Amazon ElastiCache 요금 https://aws.amazon.com/ko/elasticache/pricing/
+
+18. Amazon ElastiCache 유지 관리 https://aws.amazon.com/ko/elasticache/elasticache-maintenance/
+
+19. AWS  심플 아이콘 https://aws.amazon.com/ko/architecture/icons/
+
+20. AWS Cli  https://aws.amazon.com/ko/cli/
+AWS Cli  https://docs.aws.amazon.com/cli/#lang/ko_kr
+
+21. AWS SDK  https://aws.amazon.com/ko/tools/
+
+22. AWS Toolkit for Visal Studio https://aws.amazon.com/ko/visualstudio/
+
+23. AWS Toolkit for Eclipse https://aws.amazon.com/ko/eclipse/
+
+
+24. AWS 규정준수 https://aws.amazon.com/ko/compliance/
+
+25. AWS 이용목적 제한 방침 https://aws.amazon.com/ko/aup/
+
+26. 침투 테스트 승인 요청 https://aws.amazon.com/ko/security/penetration-testing/
+
+27. 침투 테스트 툴  https://www.tenable.com/downloads/nessus#download
+
+28. 서버 모니터링 시스템 쟈빅스 https://www.zabbix.com/
+
+29.서버 모니터링 시스템2  https://mackerel.io/
+
+30. Twilio를 사용한 전화 알림 https://www.twilio.com/try-twilio
+
+31. AWS 문제시 지원서비스   https://aws.amazon.com/ko/premiumsupport/
+
+32. 리전별 가능한 서비스 https://aws.amazon.com/ko/about-aws/global-infrastructure/regional-product-services/
+
+33. AWS 상태 확인하기 https://status.aws.amazon.com/
+
+34.  15 Free Digital Training Courses on New AWS Services Launched at re:Invent 2018
+https://aws.amazon.com/ko/about-aws/whats-new/2018/12/announcing-15-free-digital-training-courses-on-new-aws-services-launched-at-re-invent-2018/?fbclid=IwAR1FwuVukRrGlWqZ4eZ8I0a3ZXdJl_l37kLLSlByKJnpjjsmJeLBtYJrUHs
+
+35. AWS RDS 강의 https://opentutorials.org/module/3860?fbclid=IwAR3fF__5QVgu0bsF3lpjjc1ESi0mERq6VH_c5eIB-mSTdO2y-6HIOvVO6Hs
+
+36. AWS도움 받을수 있는곳
+24-7 phone support  https://console.aws.amazon.com/support/home
+technical questions https://forums.aws.amazon.com
+
+37. AWS 8월 기초 교육 온라인 세미나 – 클라우드 기초, 프리티어 및 비용 절감 방법
+https://aws.amazon.com/ko/blogs/korea/aws-basic-webinar-on-aug-2018/?nc1=b_rp
+
+38. AWS그림 그리는 툴  https://cloudcraft.co/signup
+
+39. 네트워크 서브넷 계산기 https://www.ipaddressguide.com/cidr
+
+40. AWS아이콘 https://aws.amazon.com/ko/architecture/icons/?nc1=h_ls
+
+41. AWS 아키 시험준비  https://brunch.co.kr/@topasvga/233
+
+42. 2018년 11월 22일  서울리전  장애 원인   https://aws.amazon.com/ko/message/74876/
+
+43. AWS 한국 블로그 https://aws.amazon.com/ko/blogs/korea/
+
+44. AWS한국 개발자 포럼. 질문 답변  https://forums.aws.amazon.com/forum.jspa?forumID=139&start=0
+
+45. AWS 트위터 https://twitter.com/awskorea
+
+46. AWS홈페이지 https://aws.amazon.com/ko/
+
+47. AWS교육기관 슈퍼트랙 블로그  https://blog.naver.com/supertrackedu
+
+48. AWS교육기관 슈퍼트랙  http://edu.supertrack.co.kr/
+
+49.  AWS기술지원 회사 3곳
+메가존 http://cloud.hosting.kr/
+gs네오텍 http://www.wisen.co.kr/main/main
+베스핀 글로벌 http://www.bespinglobal.com/
+
+50. AWS글로벌 커뮤니티 https://www.linkedin.com/groups/6814264/6814264-6397873223287001089?midToken=AQE4ORQAxNiw5A&trk=eml-b2_anet_digest_of_digests-hero-12-view%7Ediscussion&trkEmail=eml-b2_anet_digest_of_digests-hero-12-view%7Ediscussion-null-7qecm8%7Ejgvlg5eg%7Eil-null-communities%7Egroup%7Ediscussion&lipi=urn%3Ali%3Apage%3Aemail_b2_anet_digest_of_digests%3BC4D%2BSPLATe%2BbVQaZmoqLDw%3D%3D
+
+
+51. AWS  자료 찾는 사이트
+https://docs.aws.amazon.com/index.html#lang/ko_kr
+docs.aws.amazon.com
+docs.aws.amazon.com
+
+
+52. 기초부터 !!!
+
+Getting started with VPC: http://docs.aws.amazon.com/AmazonVPC/latest/GettingStartedGuide/GetStarted.html
+
+Common VPC scenarios and configurations:http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenarios.html
+
+Understanding default VPCs and subnets: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html
+
+VPC default service limits: http://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_vpc
+
+Security groups: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_SecurityGroups.html
+
+Network ACLs: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_ACLs.html
+
+Route Tables: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Route_Tables.html
+
+AWS Knowledge Center videos:
+
+Creating a VPC: https://aws.amazon.com/premiumsupport/knowledge-center/create-vpc-console/
+
+Creating a NAT Gateway: https://aws.amazon.com/premiumsupport/knowledge-center/nat-gateway-vpc-private-subnet/
+
+Connecting to a VPC: https://aws.amazon.com/premiumsupport/knowledge-center/connect-vpc/
+
+If you have any questions, you can reachout to us on the AWS EC2 forums: https://forums.aws.amazon.com/forum.jspa?forumID=30
+
+If you have a Developer or BusinessSupport plan, you can open a technical support case for help with your VPC: https://console.aws.amazon.com/support/home?#/case/create
+
+
+53. AWS 한국어 기술백서  https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/?adbsc=social_20150619_47806426&adbid=1597395517183810&adbpl=fb&adbpr=1563378127252216
+
+
+54. AWS 무료 실습 과정  https://aws.amazon.com/ko/training/self-paced-labs/
+AWS 교육 | 자습형 실습 – AWS 온라인 교육
+aws.amazon.com 
+
+
+55. AWS기초 교육
+https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/?mkt_tok=eyJpIjoiTXpGak5Ua3lOMlkxT0ROaSIsInQiOiJyU3JvZ3BqQ2VveStFTVBOTVJDa3lRK3I4cXRoVmtxRVVibjhJUGo0VjMwbEF2citob2w0bUZYZkxlVE10dEFSUFh4bVpuY0xJcGlLcnhpMUt5XC9VWFE9PSJ9#slideshare  
+
+56. AWS기초 무료교육 참석하기 https://aws.amazon.com/ko/events/seminars/201-seminar/?sc_channel=em&sc_campaign=sel_201_2017&sc_publisher=aws&sc_medium=em_&sc_content=devadopt_ev_sp&sc_country=kr&sc_geo=apac&sc_category=mult&sc_outcome=devadopt&trkCampaign=sel_201_2017&trk=em_sales_invite&mkt_tok=eyJpIjoiWm1GaU5URmtPRFk0TW1KayIsInQiOiI2a0p0VGhQZVQwSjN5Um1lVWpnalVsMjlPZ2lMRU1GZCtWaTR6RVJuU2prdCtnYmZjd3BcL2NHV0laQUFwQlI3Q2k5em9cL2FQcVM3UUZaVW00bHk0eXpBPT0ifQ%3D%3D
+
+
+57. 오픈 튜터리얼의 AWS 무료 강의 https://opentutorials.org/module/3814
+
+
+58. AWS전문가되기 블로그  https://brunch.co.kr/magazine/devops
+
+
+
+
+59. AWS 문서 검색 https://docs.aws.amazon.com/index.html#lang/ko_kr
+
+
+60. AWS 최신 기술들
+
+GS네오텍  정리본   https://blog.wisen.co.kr/?p=9548
+
+한국어 동영상, AWS에반젤리스트  https://www.slideshare.net/awskorea/aws-reinvent-2018-new-services-channy
+
+AWS 블로그 영어   https://aws.amazon.com/ko/blogs/korea/
+
+2018 AWS 서울 리전 출시 서비스 특집 온라인 세미나 – Amazon Lightsail, Batch, Glue 및 EFS 온라인세미나 자료
+https://aws.amazon.com/ko/blogs/korea/aws-online-seminar-on-aug-2018/?trk=event_page
+
+AWS Re:Invent 동영상 자료들  https://reinventvideos.com/
